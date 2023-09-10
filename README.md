@@ -2,7 +2,9 @@
 IBM/Coursera Peer-graded Assignment - Data Science Ecosystem
 
 Assignment 
+
 There are a 25 points possible for this final project. I hope I will succeed, based on the following Excercises:
+
 Exercise 2 - Create a markdown cell with the title of the notebook. (1 pt)
 Exercise 3 - Create a markdown cell for an introduction. (1 pt)
 Exercise 4 - Create a markdown cell to list data science languages. (3 pts)
